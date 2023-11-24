@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Sindu.
+# Hi there! 👋 I'm Sinduja.
 
 I'm a data enthusiast with a background in Data Science and Analytics. I hold a master's degree in the field and have a keen interest in data analysis, statistical models, and machine learning.
 
