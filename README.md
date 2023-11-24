@@ -18,12 +18,8 @@ Here are some of the technologies and tools I frequently work with:
 - **Machine Learning:** Scikit-learn, TensorFlow
 - **Cloud Computing:** Currently learning and exploring cloud platforms like AWS.
 
-## GitHub Stats
-
-![Sai's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true)
-
 ## Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](Your LinkedIn Profile Link)
+Email ID: sindusgithub@gmail.com
 
 Feel free to explore my repositories and connect with me! 😊
